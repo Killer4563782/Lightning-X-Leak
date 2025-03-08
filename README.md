@@ -1,3 +1,5 @@
+# Quick disclaimer This readme wasn’t written by me but by Playboy, a long-time member of the Lightning-X Team."
+
 # Making all public because he started spreading lies and didnt want to hold accountability for it
 
 # RIP LX 2025 🦅 (couldnt find the 🕊️ emoji)
