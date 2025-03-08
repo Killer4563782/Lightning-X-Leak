@@ -1,0 +1,5 @@
+Build
+!Build/upx.exe
+.vs
+.vscode
+*.user
